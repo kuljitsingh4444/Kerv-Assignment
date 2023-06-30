@@ -1,0 +1,9 @@
+.primary-button {
+    padding: 5px 10px;
+    background: rgb(235, 161, 101);
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: aliceblue;
+}

@@ -1,0 +1,6 @@
+.primary-input {
+    outline: none;
+    padding: 5px 10px;
+    border: 1px solid silver;
+    border-radius: 4px;
+}
